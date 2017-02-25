@@ -1,9 +1,12 @@
 <?php
 // HTTP
 define('HTTP_SERVER', 'http://localhost:10/opencart/');
+// define('HTTP_SERVER', 'http://192.169.199.29:10/opencart/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://localhost:10/opencart/');
+define('HTTPS_SERVER', 'https://localhost:10/opencart/');
+//define('HTTPS_SERVER', 'https://192.169.199.29:10/opencart/');
+
 
 // DIR
 define('DIR_APPLICATION', 'C:/Apache24/htdocs/opencart/catalog/');

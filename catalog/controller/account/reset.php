@@ -23,8 +23,9 @@ class ControllerAccountReset extends Controller {
 			$this->document->setTitle($this->language->get('heading_title'));
 
 			if (($this->request->server['REQUEST_METHOD'] == 'POST') && $this->validate()) {
-				$this->model_account_customer->editPassword($customer_info['customer_id'], $this->request->post['password']);
-
+				//$this->model_account_customer->editPassword($customer_info['customer_id'], $this->request->post['password']);
+                                  $this->model_account_customer->editPassword($customer_info['email'], $this->request->post['password']);
+                                
 				$this->load->model('account/activity');
 
 				$activity_data = array(

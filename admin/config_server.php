@@ -1,19 +1,19 @@
 <?php
 // HTTP
-//define('HTTP_SERVER', 'http://192.169.199.29:10/opencart/admin/');
-//define('HTTP_CATALOG', 'http://192.169.199.29:10/opencart/');
+define('HTTP_SERVER', 'http://192.169.199.29:10/opencart/admin/');
+define('HTTP_CATALOG', 'http://192.169.199.29:10/opencart/');
 
 // HTTPS
-//define('HTTPS_SERVER', 'https://192.169.199.29:10/opencart/admin/');
-//define('HTTPS_CATALOG', 'https://192.169.199.29:10/opencart/');
+define('HTTPS_SERVER', 'https://192.169.199.29:10/opencart/admin/');
+define('HTTPS_CATALOG', 'https://192.169.199.29:10/opencart/');
 
 // HTTP
-define('HTTP_SERVER', 'http://localhost:10/opencart/admin/');
-define('HTTP_CATALOG', 'http://localhost:10/opencart/');
+//define('HTTP_SERVER', 'http://localhost:10/opencart/admin/');
+//define('HTTP_CATALOG', 'http://localhost:10/opencart/');
 
 // HTTPS
-define('HTTPS_SERVER', 'https://localhost:10/opencart/admin/');
-define('HTTPS_CATALOG', 'https://localhost:10/opencart/');
+//define('HTTPS_SERVER', 'https://localhost:10/opencart/admin/');
+//define('HTTPS_CATALOG', 'https://localhost:10/opencart/');
 
 
 

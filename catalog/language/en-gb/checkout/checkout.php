@@ -55,18 +55,18 @@ $_['entry_confirm']                  = 'Password Confirm';
 $_['entry_firstname']                = 'First Name';
 $_['entry_lastname']                 = 'Last Name';
 $_['entry_telephone']                = 'Telephone';
-$_['entry_fax']                      = 'Fax';
+$_['entry_fax']                      = 'Other contact method';
 $_['entry_address']                  = 'Choose Address';
-$_['entry_company']                  = 'Company';
+$_['entry_company']                  = 'Date and Time Arrival LAX airport';
 $_['entry_customer_group']           = 'Customer Group';
-$_['entry_address_1']                = 'Address 1';
-$_['entry_address_2']                = 'Address 2';
-$_['entry_postcode']                 = 'Post Code';
-$_['entry_city']                     = 'City';
+$_['entry_address_1']                = 'WeChat';
+$_['entry_address_2']                = 'QQ';
+$_['entry_postcode']                 = 'E-Mail';
+$_['entry_city']                     = 'Cell Phone';
 $_['entry_country']                  = 'Country';
 $_['entry_zone']                     = 'Region / State';
 $_['entry_newsletter']               = 'I wish to subscribe to the %s newsletter.';
-$_['entry_shipping'] 	             = 'My delivery and billing addresses are the same.';
+$_['entry_shipping'] 	             = 'My contact info is same.';
 
 // Error
 $_['error_warning']                  = 'There was a problem while trying to process your order! If the problem persists please try selecting a different payment method or you can contact the store owner by <a href="%s">clicking here</a>.';

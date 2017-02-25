@@ -57,16 +57,16 @@ $_['entry_lastname']                 = '姓氏';
 $_['entry_telephone']                = '电话';
 $_['entry_fax']                      = '传真';
 $_['entry_address']                  = '选择地址';
-$_['entry_company']                  = '公司名称';
+$_['entry_company']                  = '到达洛杉矶国际机场的日期和时间';
 $_['entry_customer_group']           = '客户群组';
-$_['entry_address_1']                = '地址 1';
-$_['entry_address_2']                = '地址 2';
-$_['entry_postcode']                 = '邮递区号';
-$_['entry_city']                     = '乡镇市区';
+$_['entry_address_1']                = '微信';
+$_['entry_address_2']                = 'QQ';
+$_['entry_postcode']                 = '您的邮箱';
+$_['entry_city']                     = '您的手机';
 $_['entry_country']                  = '国家';
 $_['entry_zone']                     = '县市 / 地区';
 $_['entry_newsletter']               = '我希望订阅 %s 电子报。';
-$_['entry_shipping'] 	             = '我的运送地址和帐单地址相同。';
+$_['entry_shipping'] 	             = '我的联系方式没有改变';
 
 // Error
 $_['error_warning']                  = '在结帐时出现了问题！ 如果此问题继续存在请使用其它支付方式或<a href="%s">联系我们</a>。';
