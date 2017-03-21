@@ -1,3 +1,3 @@
 <?php
 // Text
-$_['text_title'] = '现金-现场支付';
+$_['text_title'] = '现金-支付';

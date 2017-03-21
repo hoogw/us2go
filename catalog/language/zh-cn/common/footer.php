@@ -14,4 +14,4 @@ $_['text_account']      = '会员中心';
 $_['text_order']        = '历史订单';
 $_['text_wishlist']     = '收藏清单';
 $_['text_newsletter']   = '订阅电子报';
-$_['text_powered']      = '联系我们 微信：540299584  &nbsp;&nbsp&nbsp 电话 (美国001)310-710-6501 北京时间晚上11：00 - 上午10：00 其它时间请微信联系 <br /> %s &copy; %s';
+$_['text_powered']      = '联系我们 微信：us2go_org  &nbsp;&nbsp&nbsp 电话:(001)310-710-6501  &nbsp;&nbsp&nbsp 免费预订， 服务费$300 <br /> %s &copy; %s';

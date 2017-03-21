@@ -1,23 +1,23 @@
 <?php
 // Heading 
-$_['heading_title']                  = '结帐';
+$_['heading_title']                  = '免费预订';
 
 // Text
 $_['text_cart']                      = '购物车';
-$_['text_checkout_option']           = '第 1 步： 结帐选项';
+$_['text_checkout_option']           = '第 1 步： 免费预订选项';
 $_['text_checkout_account']          = '第 2 步： 帐号及帐单明细';
 $_['text_checkout_payment_address']  = '第 2 步： 您的微信 QQ 手机';
 $_['text_checkout_shipping_address'] = '第 3 步： 到达美国后您的联系方式';
 $_['text_checkout_shipping_method']  = '第 4 步： 交易方式';
 $_['text_checkout_payment_method']   = '第 5 步： 支付方式';
-$_['text_checkout_confirm']          = '第 6 步： 确认订单';
+$_['text_checkout_confirm']          = '第 6 步： 确认免费预订';
 $_['text_modify']                    = '更新 &raquo;';
 $_['text_new_customer']              = '新客户';
 $_['text_returning_customer']        = '已有帐号';
-$_['text_checkout']                  = '结帐选项：';
+$_['text_checkout']                  = '免费预订选项：';
 $_['text_i_am_returning_customer']   = '我已有帐号';
 $_['text_register']                  = '注册帐号';
-$_['text_guest']                     = '直接结帐';
+$_['text_guest']                     = '直接免费预订';
 $_['text_register_account']          = '注册一个帐号以便您能更方便地购物、查看订单状态、查看购买记录、和更多的管理项目。';
 $_['text_forgotten']                 = '忘了密码';
 $_['text_your_details']              = '个人资料';
@@ -26,9 +26,10 @@ $_['text_your_password']             = '密码';
 $_['text_agree']                     = '我已经阅读并同意 <a href="%s" class="agree"><b>%s</b></a> 条款';
 $_['text_address_new']               = '新增一个新联系方式';
 $_['text_address_existing']          = '使用现有联系方式';
-$_['text_shipping_method']           = '在您到达洛杉矶国际机场LAX后我们的司机会在机场恭候您和您的家人，带您去您预先选定的几家住所实地看房，直到您找到理想的住处. 收取您一次性300美元服务费';
-$_['text_payment_method']            = '接机时现金支付300美元，超过5个看房地址的，每一个加收50美元';
-$_['text_comments']                  = '您到达洛杉矶国际机场LAX的日期和时间（必须填写）';
+$_['text_shipping_method']           = '一次性300美元看房服务费，最多5个地址';
+//$_['text_payment_method']            = '现金支付300美元，超过4个看房地址的，每一个加收50美元';
+$_['text_payment_method']            = '';
+$_['text_comments']                  = '您到达洛杉矶的日期和时间';
 $_['text_recurring_item']            = '分期付款商品';
 $_['text_payment_recurring']         = '分期付款方式';
 $_['text_trial_description']         = '%s 每 %d %s 给 %d 付款后';

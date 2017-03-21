@@ -1,10 +1,10 @@
 <?php
 // Heading
-$_['heading_title']                  = 'Checkout';
+$_['heading_title']                  = 'Free Booking';
 
 // Text
 $_['text_cart']                      = 'Shopping Cart';
-$_['text_checkout_option']           = 'Step %s: Checkout Options';
+$_['text_checkout_option']           = 'Step %s: Free Booking Options';
 $_['text_checkout_account']          = 'Step %s: Account &amp; Billing Details';
 $_['text_checkout_payment_address']  = 'Step %s: Your WeChat QQ Cell Phone';
 $_['text_checkout_shipping_address'] = 'Step %s: Your Contact On Arrival';
@@ -14,10 +14,10 @@ $_['text_checkout_confirm']          = 'Step %s: Confirm Order';
 $_['text_modify']                    = 'Modify &raquo;';
 $_['text_new_customer']              = 'New Customer';
 $_['text_returning_customer']        = 'Returning Customer';
-$_['text_checkout']                  = 'Checkout Options:';
+$_['text_checkout']                  = 'Free Booking Options:';
 $_['text_i_am_returning_customer']   = 'I am a returning customer';
 $_['text_register']                  = 'Register Account';
-$_['text_guest']                     = 'Guest Checkout';
+$_['text_guest']                     = 'Guest free booking';
 $_['text_register_account']          = 'By creating an account you will be able to shop faster, be up to date on an order\'s status, and keep track of the orders you have previously made.';
 $_['text_forgotten']                 = 'Forgotten Password';
 $_['text_your_details']              = 'Your Personal Details';
@@ -26,9 +26,9 @@ $_['text_your_password']             = 'Your Password';
 $_['text_agree']                     = 'I have read and agree to the <a href="%s" class="agree"><b>%s</b></a>';
 $_['text_address_new']               = 'I want to use a new contact';
 $_['text_address_existing']          = 'I want to use an existing contact';
-$_['text_shipping_method']           = 'On you arrive LAX Los Angeles International Airport, our driver will meet you there and bring you to your several previously choosen place, until you find the ideal one. Will charge you one time $300 service fee.';
-$_['text_payment_method']            = 'Pay Cash $300 at Airport, more than 5 place, extra $50 for each';
-$_['text_comments']                  = 'The date and time of your arrival LAX (required) ';
+$_['text_shipping_method']           = 'Service fee $300, max 5 address';
+$_['text_payment_method']            = '';
+$_['text_comments']                  = 'The date and time of your arrival Los Angeles  ';
 $_['text_recurring_item']            = 'Recurring Item';
 $_['text_payment_recurring']         = 'Payment Profile';
 $_['text_trial_description']         = '%s every %d %s(s) for %d payment(s) then';
