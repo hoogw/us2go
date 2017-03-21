@@ -11,6 +11,6 @@ $_['text_order']         = '订单记录';
 $_['text_transaction']   = '交易记录';
 $_['text_download']      = '下载商品';
 $_['text_logout']        = '会员登出';
-$_['text_checkout'] 	 = '结帐';
+$_['text_checkout'] 	 = '免费预订';
 $_['text_search']   	 = '搜索';
 $_['text_all']           = '显示全部';

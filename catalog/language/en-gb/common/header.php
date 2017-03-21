@@ -11,6 +11,6 @@ $_['text_order']         = 'Order History';
 $_['text_transaction']   = 'Transactions';
 $_['text_download']      = 'Downloads';
 $_['text_logout']        = 'Logout';
-$_['text_checkout']      = 'Checkout';
+$_['text_checkout']      = 'Free Booking';
 $_['text_search']        = 'Search';
 $_['text_all']           = 'Show All';
