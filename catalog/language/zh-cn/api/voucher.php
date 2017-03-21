@@ -1,7 +1,7 @@
 <?php
 // Text
 $_['text_success']     = '成功：您的礼券折扣已套用！';
-$_['text_cart']        = '成功：您已经修改您的购物车！';
+$_['text_cart']        = '成功：您已经修改您的预订单！';
 $_['text_for']         = '%s 礼券 %s';
 
 // Error

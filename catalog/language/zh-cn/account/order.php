@@ -15,14 +15,14 @@ $_['text_payment_address']  = '付款地址';
 $_['text_payment_method']   = '付款方式';
 $_['text_comment']          = '订单备注';
 $_['text_history']          = '订单记录';
-$_['text_success']          = '成功: 您已经新增商品<a href="%s">%s</a>到您的<a href="%s">购物车</a>！';
-$_['text_empty']            = '您还没有购买过本店商品！';
+$_['text_success']          = '成功: 您已经新增房源<a href="%s">%s</a>到您的<a href="%s">预订单</a>！';
+$_['text_empty']            = '您还没有预订过本店房源！';
 $_['text_error']            = '找不到您查询的订单！';
 
 // Column
 $_['column_order_id']       = '订单编号';
 $_['column_customer']       = '客户';
-$_['column_product']        = '商品数量';
+$_['column_product']        = '房源数量';
 $_['column_name']           = '品名';
 $_['column_model']          = '型号';
 $_['column_quantity']       = '数量';

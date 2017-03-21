@@ -11,7 +11,7 @@ $_['text_date_added']         = '新增日期';
 $_['text_status']             = '状态';
 $_['text_payment_method']     = '付款方式';
 $_['text_order_id']           = 'Order ID:';
-$_['text_product']            = '商品';
+$_['text_product']            = '房源';
 $_['text_quantity']           = '数量';
 $_['text_description']        = '说明';
 $_['text_reference']          = '凭证';
@@ -44,7 +44,7 @@ $_['column_date_added']       = '新增';
 $_['column_type']             = '类型';
 $_['column_amount']           = '金额';
 $_['column_status']           = '状态';
-$_['column_product']          = '商品';
+$_['column_product']          = '房源';
 $_['column_recurring_id']     = '分期付款编号';
 
 // Error

@@ -1,6 +1,6 @@
 <?php
 // Heading 
-$_['heading_title'] = '特色商品';
+$_['heading_title'] = '特色房源';
 
 // Text
 $_['text_tax']      = '不含税：';

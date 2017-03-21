@@ -1,2 +1,2 @@
 <?php
-$_['text_sub_total'] = '商品小计';
+$_['text_sub_total'] = '房源小计';

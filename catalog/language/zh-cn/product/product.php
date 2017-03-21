@@ -11,16 +11,16 @@ $_['text_instock']             = '有空房';
 $_['text_tax']                 = '不含税：'; 
 $_['text_discount']            = '或更多';
 $_['text_option']              = '选项及配件：';
-$_['text_minimum']             = '本商品的最低订购数量为 %s';
-$_['text_reviews']             = '%s 笔商品评论'; 
-$_['text_write']               = '如果您对本商品有什么问题或经验，请在此留下您的意见和建议！';
-$_['text_login']               = '请 <a href="%s">登录</a> 或 <a href="%s">注册</a> 后查看商品评论！';
-$_['text_no_reviews']          = '此商品暂无商品评论。';
+$_['text_minimum']             = '本房源的最低订购数量为 %s';
+$_['text_reviews']             = '%s 笔房源评论'; 
+$_['text_write']               = '如果您对本房源有什么问题或经验，请在此留下您的意见和建议！';
+$_['text_login']               = '请 <a href="%s">登录</a> 或 <a href="%s">注册</a> 后查看房源评论！';
+$_['text_no_reviews']          = '此房源暂无房源评论。';
 $_['text_note']                = '<span class="text-danger">注意：</span> 评论内容不支援HTML代码！';
 $_['text_success']             = '感谢您的意见，已向管理员送出审核请求。';
-$_['text_related']             = '相关商品';
+$_['text_related']             = '相关房源';
 $_['text_tags']                = '标签：';
-$_['text_error']               = '此商品不存在！';
+$_['text_error']               = '此房源不存在！';
 $_['text_payment_recurring']   = '分期付款方式';
 $_['text_trial_description']   = '%s 每 %d %s 给 %d 付款后';
 $_['text_payment_description'] = '每期付款%s, 每 %d 个 %s 一期，共 %d 期';
@@ -40,9 +40,9 @@ $_['entry_good']               = '好评';
 $_['entry_bad']                = '差评';
 
 // Tabs
-$_['tab_description']          = '商品描述';
-$_['tab_attribute']            = '商品属性';
-$_['tab_review']               = '商品评论 (已有 %s 笔商品评论)';
+$_['tab_description']          = '房源描述';
+$_['tab_attribute']            = '房源属性';
+$_['tab_review']               = '房源评论 (已有 %s 笔房源评论)';
 
 // Error
 $_['error_name']               = '警告：评论者姓名必须在 3 到 25 个字之间！';

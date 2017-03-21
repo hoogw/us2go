@@ -1,16 +1,16 @@
 <?php
 // Heading
-$_['heading_title']     = '特价商品';
+$_['heading_title']     = '特价房源';
 
 // Text
-$_['text_empty']        = '抱歉，现在没有任何特价商品！';
+$_['text_empty']        = '抱歉，现在没有任何特价房源！';
 $_['text_quantity']     = '数量：';
 $_['text_manufacturer'] = '品牌：';
 $_['text_model']        = '型号：'; 
 $_['text_points']       = '积点：'; 
 $_['text_price']        = '价格：'; 
 $_['text_tax']          = '不含税：'; 
-$_['text_compare']      = '商品比较(%s)'; 
+$_['text_compare']      = '房源比较(%s)'; 
 $_['text_sort']         = '排序方式：';
 $_['text_default']      = '预设';
 $_['text_name_asc']     = '名称（A - Z）';

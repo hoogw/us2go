@@ -12,4 +12,4 @@ $_['entry_generator']  = '产生追踪连结';
 $_['entry_link']       = '追踪连结';
 
 // Help
-$_['help_generator']  = '输入您想连结的商品名称';
+$_['help_generator']  = '输入您想连结的房源名称';

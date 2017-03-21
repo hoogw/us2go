@@ -1,11 +1,11 @@
 <?php
 // Heading 
-$_['heading_title']     = '下载商品';
+$_['heading_title']     = '下载房源';
 
 // Text
 $_['text_account']      = '我的帐号';
-$_['text_downloads']    = '下载商品';
-$_['text_empty']        = '您没有购买过可下载的商品！';
+$_['text_downloads']    = '下载房源';
+$_['text_empty']        = '您没有购买过可下载的房源！';
 
 // Column
 $_['column_order_id']   = '订单编号';

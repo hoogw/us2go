@@ -3,7 +3,7 @@
 $_['heading_title']                  = '免费预订';
 
 // Text
-$_['text_cart']                      = '购物车';
+$_['text_cart']                      = '预订单';
 $_['text_checkout_option']           = '第 1 步： 免费预订选项';
 $_['text_checkout_account']          = '第 2 步： 帐号及帐单明细';
 $_['text_checkout_payment_address']  = '第 2 步： 您的微信 QQ 手机';
@@ -30,7 +30,7 @@ $_['text_shipping_method']           = '一次性300美元看房服务费，5个
 //$_['text_payment_method']            = '现金支付300美元，超过4个看房地址的，每一个加收50美元';
 $_['text_payment_method']            = '';
 $_['text_comments']                  = '您到达洛杉矶的日期和时间';
-$_['text_recurring_item']            = '分期付款商品';
+$_['text_recurring_item']            = '分期付款房源';
 $_['text_payment_recurring']         = '分期付款方式';
 $_['text_trial_description']         = '%s 每 %d %s 给 %d 付款后';
 $_['text_payment_description']       = '每期付款%s, 每 %d 个 %s 一期，共 %d 期';

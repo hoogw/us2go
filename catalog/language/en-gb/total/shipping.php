@@ -3,7 +3,7 @@
 $_['heading_title']        = 'One time service fee';
 
 // Text
-$_['text_success']         = 'Success: Your shipping estimate has been applied!';
+$_['text_success']         = 'One time service fee!';
 $_['text_shipping']        = 'Enter your destination.';
 $_['text_shipping_method'] = 'Please select the preferred shipping method to use on this order.';
 

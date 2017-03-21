@@ -1,7 +1,7 @@
 <?php
 // Text
 $_['text_new_subject']          = '%s - 订单编号 %s';
-$_['text_new_greeting']         = '感谢您购买 %s 的商品，您的订单已经建立，我们将在收到您的付款后，尽快处理您的订单。';
+$_['text_new_greeting']         = '感谢您预订 %s 的房源，您的订单已经建立，我们将在收到您的付款后，尽快处理您的订单。';
 $_['text_new_received']         = '您已接收一份订单。';
 $_['text_new_link']             = '点击底下的连结查看您的订单：';
 $_['text_new_order_detail']     = '订单明细';
@@ -16,14 +16,14 @@ $_['text_new_telephone']        = '联系电话：';
 $_['text_new_ip']  	        	= 'IP 位址：';
 $_['text_new_payment_address']  = '付款地址';
 $_['text_new_shipping_address'] = '运送地址';
-$_['text_new_products']         = '商品';
-$_['text_new_product']          = '商品';
+$_['text_new_products']         = '房源';
+$_['text_new_product']          = '房源';
 $_['text_new_model']            = '型号';
 $_['text_new_quantity']         = '数量';
 $_['text_new_price']            = '价格';
 $_['text_new_order_total']      = '小计';
 $_['text_new_total']            = '总计：';
-$_['text_new_download']         = '确认付款后您将透过以下连结下载商品：';
+$_['text_new_download']         = '确认付款后您将透过以下连结下载房源：';
 $_['text_new_comment']          = '订单备注：';
 $_['text_new_footer']           = '如果您有任何疑问，请直接回复此邮件。';
 $_['text_update_subject']       = '%s - 订单更新 %s';

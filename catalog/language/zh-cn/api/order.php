@@ -11,6 +11,6 @@ $_['error_no_payment']       = '警告：没有支付选项可选!';
 $_['error_shipping_address'] = '运送地址必须填写！';
 $_['error_shipping_method']  = '运送方式必须填写！';
 $_['error_no_shipping']      = '警告：没有运送选项可选!';
-$_['error_stock']            = '商品标有 *** 表示数量不足或没有存货！';
+$_['error_stock']            = '房源标有 *** 表示数量不足或没有存货！';
 $_['error_minimum']          = '%s 最小起订量是 %s！';	
 $_['error_not_found']        = '警告：找不到您查询的订单！';

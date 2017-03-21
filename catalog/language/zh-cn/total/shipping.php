@@ -3,7 +3,7 @@
 $_['heading_title']        = '一次性服务费';
 
 // Text
-$_['text_success']         = '成功： 您的预估运费已经成功！';
+$_['text_success']         = '一次性服务费！';
 $_['text_shipping']        = '请输入您的目的地。';
 $_['text_shipping_method'] = '请选择运送方式。';
 
