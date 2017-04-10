@@ -26,7 +26,7 @@ $_['text_your_password']             = '密码';
 $_['text_agree']                     = '我已经阅读并同意 <a href="%s" class="agree"><b>%s</b></a> 条款';
 $_['text_address_new']               = '新增一个新联系方式';
 $_['text_address_existing']          = '使用现有联系方式';
-$_['text_shipping_method']           = '一次性300美元看房服务费，5个地址, 接飞机60美元另计';
+$_['text_shipping_method']           = '免费接飞机，免费带看房';
 //$_['text_payment_method']            = '现金支付300美元，超过4个看房地址的，每一个加收50美元';
 $_['text_payment_method']            = '';
 $_['text_comments']                  = '您到达洛杉矶的日期和时间';

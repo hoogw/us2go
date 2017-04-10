@@ -14,4 +14,4 @@ $_['text_account']      = 'My Account';
 $_['text_order']        = 'Order History';
 $_['text_wishlist']     = 'Wish List';
 $_['text_newsletter']   = 'Newsletter';
-$_['text_powered']      = 'Contact wechat: us2go_org cell phone: (US 001)-310-710-6501 Free Booking Service Fee $300  <br /> %s &copy; %s';
+$_['text_powered']      = 'Contact wechat: us2go_org cell phone: 310-710-6501 Free Booking， free house tour   <br /> %s &copy; %s';

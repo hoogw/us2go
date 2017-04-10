@@ -26,7 +26,7 @@ $_['text_your_password']             = 'Your Password';
 $_['text_agree']                     = 'I have read and agree to the <a href="%s" class="agree"><b>%s</b></a>';
 $_['text_address_new']               = 'I want to use a new contact';
 $_['text_address_existing']          = 'I want to use an existing contact';
-$_['text_shipping_method']           = 'Service fee $300, max 5 address， airport pickup $60 extra';
+$_['text_shipping_method']           = 'Free airport pickup， free house toure.';
 $_['text_payment_method']            = '';
 $_['text_comments']                  = 'The date and time of your arrival Los Angeles  ';
 $_['text_recurring_item']            = 'Recurring Item';

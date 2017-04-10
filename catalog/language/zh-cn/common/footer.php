@@ -14,4 +14,4 @@ $_['text_account']      = '会员中心';
 $_['text_order']        = '历史订单';
 $_['text_wishlist']     = '收藏清单';
 $_['text_newsletter']   = '订阅电子报';
-$_['text_powered']      = '联系我们 微信：us2go_org  &nbsp;&nbsp&nbsp 电话:(001)310-710-6501  &nbsp;&nbsp&nbsp 免费预订&nbsp;&nbsp&nbsp 一次性服务费$300  <br /> %s &copy; %s';
+$_['text_powered']      = '联系我们 微信：us2go_org  &nbsp;&nbsp&nbsp 电话:310-710-6501  &nbsp;&nbsp&nbsp 免费预订&nbsp;&nbsp;免费接机&nbsp;&nbsp;免费带看房&nbsp;&nbsp;免费帮租车  <br /> %s &copy; %s';
